@@ -10,10 +10,6 @@ Features:
   Models: Comparison of Linear Regression, Decision Tree, and Random Forest Regressors.  
   Performance: Random Forest outperformed with the lowest MSE.  
 
-## **How to View the Project**  
-Access the full implementation in Google Colab:  
-[Open Colab Notebook](https://colab.research.google.com/drive/1daYEUgSJUWl8LFbNBCnK5LNo2R8nCh-c?usp=sharing)
-
 Future Enhancements: 
 - Hyperparameter tuning for better accuracy.  
 - Integration of real-time data for dynamic predictions.  
